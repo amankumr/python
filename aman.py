@@ -1,1 +1,1 @@
-Pgucohdoyyofooyditdydho
+print("Aman")
